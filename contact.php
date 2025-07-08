@@ -3,7 +3,7 @@
 <?php
 if (isset($_POST['Email'])) {
 
-    $email_to = "lcookman@highpoint.edu";
+    $email_to = "lcshag@gmail.com";
     $email_subject = "New form submissions";
 
     function problem($error)
