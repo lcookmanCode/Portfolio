@@ -1,0 +1,20 @@
+Lauren Cookman
+Website
+March 2024
+Web Technologies
+
+I wanted to create a 5 page website that I could use as my own personal website in the future. I wanted to present the jobs and services I offer.
+
+My first page is an overview (as it should be). This page at the bottom shows and states what I offer. 
+
+The second page shows the graphic design I offer and some of my past work.
+
+The third page shows the photography I offer and some of my past work.
+
+The fourth page is my about page. I am very happy with how this turned out and I love the FAQ drop down that has a good amount of extra information and project requirements.
+
+Lastly, my fifth page, the contact page. This page took me the longest because I wanted to figure out how to make the form with a html, css, and php file.
+
+I tried to create a simplistic look that would not be too much for the viewer but still appealing. I wanted to have a white background and incorperate negative space like I had seen in the good examples of websites.
+
+Every page has a navigation bar and footer to be user friendly. Each page other than the contact page has 3 spots to take you to the contact form.

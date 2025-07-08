@@ -1,0 +1,51 @@
+/*My required css page which is for my contact page*/
+
+body {
+    margin: 1em;
+    border: 3px white;
+    margin: 1em;
+    padding: 0px;
+}
+
+main {
+    display: block;
+    width: 450px;
+    margin: 0 auto;
+    padding: 1.5em;
+    background: white;
+    border: 2px solid black;
+}
+
+h3{
+    color: black;
+    align: center;
+    font-size: 30px;
+}
+
+
+label {
+    font-family: "Bakersville";
+    font-size: 17px;
+    width: 10em;
+    padding-right: 1em;
+    float: left;
+}
+
+#data input {
+    float: left;
+    width: 15em;
+    margin-bottom: .5em;
+}
+
+#data span {
+    padding-left: .25em;
+}
+
+
+#buttons input {
+    float: left;
+    margin-bottom: .5em;
+}
+
+br {clear: left;
+}
