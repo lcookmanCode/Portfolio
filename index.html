@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
      <head>
+          <meta name="viewport" content="width=device-width, initial-scale=1">
           <title>LC by Design</title>
           <link rel="icon" href="images/logo.png" type="image/png">
           <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -146,6 +147,37 @@
                     padding: 10px 20px;
                     border-radius: 5px;
                     }
+               /* Make all images scale properly */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Make nav bar stack on small screens */
+@media (max-width: 600px) {
+  .topnav a {
+    float: none;
+    display: block;
+    text-align: center;
+  }
+
+  .topnav img {
+    display: none; /* hides the right-float logo on phones */
+  }
+
+  .column {
+    width: 50%;
+  }
+
+  ul {
+    flex-wrap: wrap;
+  }
+
+  .button {
+    font-size: 16px;
+    padding: 8px;
+  }
+}
           </style>
      </head>
 
